@@ -1,2 +1,2 @@
-# Hospital-Database-UAS
+# Hospital-Database
 MySQL
